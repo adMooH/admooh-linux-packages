@@ -1,0 +1,7 @@
+Origin: adMooH Packages
+Label: admooh
+Codename: bionic
+Architectures: amd64
+Components: main
+Description: adMooH packages repository
+SignWith: 79AB7088FA12792C
