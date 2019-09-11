@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: adMooH Packages
+Label: admooh
+Codename: bionic
+Date: Wed, 11 Sep 2019 11:47:19 UTC
+Architectures: amd64 i386
+Components: main
+Description: adMooH packages repository
+MD5Sum:
+ b27ba3448997f458baa7b79bb2cc1137 393 main/binary-amd64/Packages
+ 7293b46d9ca53d1b699b9028e4c07fb2 298 main/binary-amd64/Packages.gz
+ 029c78d1caedcaf9bd29e0e16a807a5c 114 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
+ 6c2f37f6669a0c02bb0b749c1468431d 113 main/binary-i386/Release
+SHA1:
+ b2fd08c29d86c8d22dd8eb234cc047032dabc667 393 main/binary-amd64/Packages
+ f1f0cdfbdf162d31bfbf5ac9db4558f519af6196 298 main/binary-amd64/Packages.gz
+ 088faaa03a666611b764bb7b9bbaa6a4487ff21c 114 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
+ 2bccb20d9ee5fee24990f77b4ab418c5d487618a 113 main/binary-i386/Release
+SHA256:
+ 71f92eeabc960b0384e04a6640f979e7b67b75c7725d89c1fd2e279ba022ed5d 393 main/binary-amd64/Packages
+ 6185f5fb2d7443eb007e5ba08e0a4ed0cdde8af0898f690b6754c6a14780cbe3 298 main/binary-amd64/Packages.gz
+ 68776e6201324aa9ebe7f682501f49412432d6d23334bbea4853e2684d6d97cb 114 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
+ 15a387ff57d9504c716e64891a6569b5119d2174ec1c1f5b6ff4c823a76585e3 113 main/binary-i386/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEox1SP24YWeyRIQtWeatwiPoSeSwFAl143sgACgkQeatwiPoS
+eSx2zQwAkL9IDiUymx9NHN+ZFWorvi2c5dsGscLV6P1ke0AJiXwMSV5sn06muVGA
+jyj1hD0i6gCyjNBaDuP4gj382iBA9O9QVTiPjr7LxaOUCPD6NQLmmLtf3LW1WWMr
+GcMLDrN+bl8j/PlN+m+H5IN8LUv8kJAa/Z9CNoAvRFiOjXTGGVDePfnGLkqR8ezX
+8kx6Og66rlDsJ8Nt+DMdWDSeeriEbbnKlHiao2R424tGzniOqtQ/XQ0rjsCeuzaW
+2uRwI05VBo3o1z+FzfzUYmdh9SR2MnASsZmaEwH3QS3jkD3G3vDVlNWKUzd7pI3d
+D4QAD8SrlHck5/As6CUOUsYHQdUA4s8GhjmWvKptIAliMjRcfxTZfjxf2reI89RV
+RxQW2RbUSeuPR4exWSHrF/QCOwAAzN3VIkx/yfI2htpv/H6XGsc2C66DZhmNIm+p
+h+wo6CO5N4KjWUKPeZ21r49FTtB4OBAg8y8u6ixkC70n2O+9V0hCMJJ4PbRSQ+Wq
+RIBWc3id
+=TLFw
+-----END PGP SIGNATURE-----

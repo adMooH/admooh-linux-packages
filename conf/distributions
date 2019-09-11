@@ -1,7 +1,7 @@
 Origin: adMooH Packages
 Label: admooh
 Codename: bionic
-Architectures: amd64
+Architectures: amd64 i386
 Components: main
 Description: adMooH packages repository
 SignWith: 79AB7088FA12792C
