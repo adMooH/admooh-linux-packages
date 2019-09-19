@@ -58,6 +58,6 @@ and paste:
 \* Remember to exchange $USER_NAME for username !!!
 
 ```
-@reboot /usr/bin/sudo/home/${USER_NAME}/admooh.startup
+@reboot /usr/bin/sudo /home/${USER_NAME}/admooh.startup
 ```
 
