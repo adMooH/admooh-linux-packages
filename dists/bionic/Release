@@ -1,27 +1,27 @@
 Origin: adMooH Packages
 Label: admooh
 Codename: bionic
-Date: Wed, 11 Sep 2019 11:47:19 UTC
+Date: Thu, 10 Oct 2019 16:42:53 UTC
 Architectures: amd64 i386
 Components: main
 Description: adMooH packages repository
 MD5Sum:
- b27ba3448997f458baa7b79bb2cc1137 393 main/binary-amd64/Packages
- 7293b46d9ca53d1b699b9028e4c07fb2 298 main/binary-amd64/Packages.gz
+ c2832a546917d24440ec53aca2f77cb2 393 main/binary-amd64/Packages
+ 723970514e1ccfbab6dad147dae8637c 295 main/binary-amd64/Packages.gz
  029c78d1caedcaf9bd29e0e16a807a5c 114 main/binary-amd64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
  6c2f37f6669a0c02bb0b749c1468431d 113 main/binary-i386/Release
 SHA1:
- b2fd08c29d86c8d22dd8eb234cc047032dabc667 393 main/binary-amd64/Packages
- f1f0cdfbdf162d31bfbf5ac9db4558f519af6196 298 main/binary-amd64/Packages.gz
+ 941bffa6760e0572fa2c5f2398f7d5fcfeb44afe 393 main/binary-amd64/Packages
+ e7d6b55b3450b87c531ff35c2b3af8ac2056799f 295 main/binary-amd64/Packages.gz
  088faaa03a666611b764bb7b9bbaa6a4487ff21c 114 main/binary-amd64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
  2bccb20d9ee5fee24990f77b4ab418c5d487618a 113 main/binary-i386/Release
 SHA256:
- 71f92eeabc960b0384e04a6640f979e7b67b75c7725d89c1fd2e279ba022ed5d 393 main/binary-amd64/Packages
- 6185f5fb2d7443eb007e5ba08e0a4ed0cdde8af0898f690b6754c6a14780cbe3 298 main/binary-amd64/Packages.gz
+ 114020846e5a616393f32af09027f5ce6dca85b4e657a8232091cbfcacec5ae6 393 main/binary-amd64/Packages
+ 34bf1be690d6571a0d43731a26e0023f0966aa2964ae454c49b2bd31759c4394 295 main/binary-amd64/Packages.gz
  68776e6201324aa9ebe7f682501f49412432d6d23334bbea4853e2684d6d97cb 114 main/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz

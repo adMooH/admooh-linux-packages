@@ -1,13 +1,13 @@
 Package: admoohserver
-Version: 1.0
+Version: 1.1
 Architecture: amd64
 Maintainer: adMooH <dev@admooh.com>
 Priority: optional
 Section: base
-Filename: pool/main/a/admoohserver/admoohserver_1.0_amd64.deb
-Size: 30992084
-SHA256: 2c1b9465a0a5aa27898da77f593ef4339010c12735d40f4406d209a56f70fcf5
-SHA1: 81ffaadfdd2521bdc7f71ab59a36325f7f8c49d4
-MD5sum: d64c48ec1af74207b730a916716cd5c6
+Filename: pool/main/a/admoohserver/admoohserver_1.1_amd64.deb
+Size: 28123852
+SHA256: b6f745146d383dad016e18a835f11e5f38cf57057df206ee8b9cf942cf52eded
+SHA1: f46d771c036ce54db73f50db325eacb41a363a2d
+MD5sum: e13ae3b6496cb3b84707abab7fdf0bba
 Description: adMooH AD Server
 
