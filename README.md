@@ -58,6 +58,6 @@ and paste:
 \* Remember to exchange $USER_NAME for username !!!
 
 ```
-@reboot /usr/bin/sudo /home/${USER_NAME}/admooh.startup
+@reboot setsid sh -c 'exec /home/${USER_NAME}/admooh.startup <> /dev/tty2 >&0 2>&1'
 ```
 
